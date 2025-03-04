@@ -18,4 +18,4 @@ class User {
   }
 }
 
-export { User, Product };
+export { User, Product, };
